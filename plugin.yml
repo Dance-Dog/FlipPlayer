@@ -1,0 +1,9 @@
+main: com.dancedog.flipplayer.FlipPlayer
+name: FlipPlayer
+version: 1.0.0
+author: Dance_Dog
+description: Flip a player's model upside down!
+commands:
+  flip:
+    description: Flip a player upside down
+    usage: /flip <username>
